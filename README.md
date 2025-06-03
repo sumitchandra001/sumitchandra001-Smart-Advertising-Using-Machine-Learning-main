@@ -89,5 +89,7 @@ A 25-year-old male user interested in tech clicks on several smartphone ads. The
 
 ## 👨‍💻 Author
 
-**VARUN GOWDA H S**
-varungowda1103@gmail.com
+👨‍💻 Author
+**SUMIT CHANDRA**
+s.chandra1w@gmail.com
+
